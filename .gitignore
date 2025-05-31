@@ -1,0 +1,13 @@
+# Include all the documents that don't upload to GITHUB
+
+# Sesible information
+.env
+
+# Packages
+package.json
+package-lock.json
+
+
+# Node services
+node_modules
+
