@@ -1,14 +1,8 @@
 # Include all the documents that don't upload to GITHUB
 
-# Sesible information
-
-.env
-
-# Packages
-
 package.json
 package-lock.json
-
+.env
 
 # Node services
 
