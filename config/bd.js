@@ -1,2 +1,2 @@
-//Config db
+//Config db 
 require('dotenv').config();

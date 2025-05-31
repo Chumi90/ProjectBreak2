@@ -1,4 +1,4 @@
-//Index aplication
+//Index aplication 
 const express=require("express");
 const app=express();
 require('dotenv').config();
